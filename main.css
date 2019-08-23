@@ -1,0 +1,20 @@
+/***** FULL PAGE *****/
+
+html {
+  box-sizing: border-box;
+  background-image: url("boardroom.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/***** BODY *****/
+
+body {
+  text-align: center;
+}
